@@ -1,0 +1,9 @@
+#pragma version 6
+
+txn Receiver
+addr THXX4IX2P57YUU64F7EO3IMGSRLNI2GLRWXHCOCUH2UA6QV2XTPVCDP74M
+==
+txn Amount
+int 1200000
+<=
+&&

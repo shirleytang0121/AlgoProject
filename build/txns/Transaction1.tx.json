@@ -1,0 +1,11 @@
+{
+  "amt" : 1200000,
+  "fee" : 1000,
+  "fv" : 26163405,
+  "gen" : "testnet-v1.0",
+  "gh" : "SGO1GKSzyE7IEPItTxCByw9x8FmnrCDexi9/cOUJOiI=",
+  "lv" : 26164405,
+  "rcv" : "me9+Ivp/f4pT3C/I7aGGlFbUaMuNrnE4VD6oD0K6vN8=",
+  "snd" : "W3EDZHcbwPMsLcBfksJ/hNyImlRhV+81UgNdp2AAAtQ=",
+  "type" : "pay"
+}

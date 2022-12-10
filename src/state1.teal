@@ -1,0 +1,16 @@
+#pragma version 6
+
+byte "counter"
+dup
+app_global_get
+
+int 1
++
+
+dup
+store 0
+
+app_global_put
+
+load 0
+return

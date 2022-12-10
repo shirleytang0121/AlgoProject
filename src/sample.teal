@@ -1,0 +1,9 @@
+#pragma version 6
+
+txn Receiver
+addr VAR_TMPL_RECV
+==
+txn Amount
+int 1200000
+<=
+&&
